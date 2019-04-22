@@ -5,3 +5,7 @@ Time | Presenter| Topics | File
 2018.11.25 | Rundong | Normalization techniques and their optimization characteristics | [link](Rundong-About_BN-Nov.25.pptx)
 2018.12.8 | Haoli | Robustness of Compressed Neural Networks | [link](https://github.com/compression-friendlies/Paper-Collection-of-Efficient-ML/blob/master/slides/haoli-12-8.pptx)
 2018.12.23 | Rundong | AutoML, Architecture Search and Compression | [link](Rundong-Nas_and_compression.pdf)
+2019.2.09 | Xin | Distributed Inference and Fedrated Learning | [link](https://github.com/compression-friendlies/Paper-Collection-of-Efficient-ML/blob/master/slides/Xin-AI-IoT.pdf)
+2019.4.1 |Haoli | Distillation and few data| 
+2019.4.9 | Rundong | Efficient Implementation of NN on Edge Devices| [link](Rundong-Implementation-2019.4.9.pdf)
+2019.4.15 | Xin | Transformer| [link](https://github.com/compression-friendlies/Paper-Collection-of-Efficient-ML/blob/master/slides/transformer-presentation.pdf)
