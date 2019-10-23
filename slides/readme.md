@@ -11,3 +11,4 @@ Time | Presenter| Topics | File
 2019.4.15 | Xin | Transformer| [link](https://github.com/compression-friendlies/Paper-Collection-of-Efficient-ML/blob/master/slides/transformer-presentation.pdf)
 2019.5.7 |Haoli | The Lottery Hypothesis| 
 2019.5.14 | Rundong | TVM | [link](TVM.pdf)
+2019.10.22 | Xin | Outliers in Quantization | [link](outliers.zip)
